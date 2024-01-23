@@ -5,8 +5,12 @@
  Author: Elegant Themes
  Author URI: https://www.elegantthemes.com
  Template: Divi
- Version: 1.0.0
+ Version: 1.0.1
 */
 
 /* =Theme customization starts here
 ------------------------------------------------------- */
+
+.et_header_style_left #et-top-navigation nav>ul>li>a{
+	font-weight: 500;
+}
